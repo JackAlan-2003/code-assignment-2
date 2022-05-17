@@ -1,0 +1,4 @@
+﻿  Question game.cpp
+D:\UNI Work\Code assignment 2\Question game\Question game\Question game.cpp(84,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UNI Work\Code assignment 2\Question game\Question game\Question game.cpp(32,9): warning C4102: 'tryagain': unreferenced label
+  Question game.vcxproj -> D:\UNI Work\Code assignment 2\Question game\x64\Debug\Question game.exe
